@@ -24,7 +24,7 @@
 
 ## Screenshots
 <div style="display: flex; flex-direction: row;">
-  <img  style="margin-bottom: 10px;" src="https://github.com/NilArj/Coffee-Shop/tree/fd68c19adafb49404591701730dc25025de189b7/Coffee%20Shop/images" alt="visualization insights" width="600" height="280">
+  <img  style="margin-bottom: 10px;" src="https://github.com/NilArj/Coffee-Shop/blob/fd68c19adafb49404591701730dc25025de189b7/Coffee%20Shop/images/Captura%20de%20pantalla%202023-08-18%20083243.png" alt="visualization insights" width="600" height="280">
 
 </div>
 
