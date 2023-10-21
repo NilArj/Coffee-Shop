@@ -16,7 +16,7 @@
 + Excel
 
 ## Project Problem
-In this project, the main problem wto address was to analyze and gain insights from sales data. Started with raw data and needed to perform data cleaning, transformation, and visualization to extract meaningful information for decision-making.
+In this project, the main problem to address was to analyze and gain insights from sales data. Started with raw data and needed to perform data cleaning, transformation, and visualization to extract meaningful information for decision-making.
 
 ## Project Walkthrough
 1. Take a quick look to understand its structure
